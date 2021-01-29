@@ -1,12 +1,26 @@
+2021-01-29 Add  
+20.10-1048554-ubuntu-18.04
+20.20-1089974-ubuntu-18.04
+20.30-1109583-ubuntu-18.04
+20.40-1147287-ubuntu-18.04 
+
+For a guided installation enter the following 3 commands
+```
+wget https://raw.githubusercontent.com/CryptoLuigi/AMD_installer/master/amd_install.sh
+
+chmod +x ./amd_install.sh
+
+./amd_install.sh
+ ```
+ 
+ 
 # Automatic installation of AMD Drivers on HiveOS/Ubuntu
 ---
 ## By: CryptoLuigi
 ## Code contributors: Cryptonuffe miabo
 #### Click link below to learn more about HiveOS
 
-https://hiveos.farm?ref=84706
 
-Promocode for $10: CRYPTOMIKE
 
 When running this script, the script which AMD Driver you want to install.
 
@@ -44,9 +58,3 @@ chmod +x ./amd_install.sh
 
 ./amd_install.sh
  ```
- For support go to: https://forum.hiveos.farm/t/auto-installation-of-amd-drivers-on-hiveos-ubuntu
- 
- 
- https://www.youtube.com/watch?v=58pia_gBZ4s
- 
-  [![Hiveos Tutorial: Easy AMD Driver Install/Update](https://img.youtube.com/vi/58pia_gBZ4s/0.jpg)](https://www.youtube.com/watch?58pia_gBZ4s "Hiveos Tutorial: Easy AMD Driver Install/Update")
