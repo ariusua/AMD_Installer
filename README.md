@@ -1,8 +1,10 @@
-2021-01-29 Add  
-20.10-1048554-ubuntu-18.04
-20.20-1089974-ubuntu-18.04
-20.30-1109583-ubuntu-18.04
-20.40-1147287-ubuntu-18.04 
+# 2021-01-29 Add drivers
+# 20.10-1048554-ubuntu-18.04
+# 20.20-1089974-ubuntu-18.04
+# 20.30-1109583-ubuntu-18.04
+# 20.40-1147287-ubuntu-18.04
+
+////////////////////////////////
 
 For a guided installation enter the following 3 commands
 ```
